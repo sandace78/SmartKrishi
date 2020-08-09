@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".fragment.ProfileFragment"
+    android:layout_margin="10dp">
+
+    <!-- TODO: Update blank fragment layout -->
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/etFirstName"
+        android:hint="First Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:met_iconRight="@drawable/ic_user"
+        android:layout_marginBottom="10dp"/>
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/etMiddleName"
+        android:hint="Middle Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:met_iconRight="@drawable/ic_user"
+        android:layout_marginBottom="10dp"/>
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/etLastName"
+        android:hint="Last Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:met_iconRight="@drawable/ic_user"
+        android:layout_marginBottom="10dp"/>
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/etPhoneNumber"
+        android:hint="PhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:met_iconRight="@drawable/ic_user"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_margin="20dp"
+        android:text="Update Profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

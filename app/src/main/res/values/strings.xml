@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="country_code">+977</string>
+    <string name="otp">Enter your mobile number we will send you the OTP to verify</string>
+    <string name="entercode">We have sent you an SMS on +977-********* with 6 digit verification code.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

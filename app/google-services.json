@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045969714837",
+    "firebase_url": "https://smart-krishi-b4160.firebaseio.com",
+    "project_id": "smart-krishi-b4160",
+    "storage_bucket": "smart-krishi-b4160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045969714837:android:a0a5d78659ed285326259c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045969714837-8etvfr6bj7c3khnke2d9ik7ch280iblu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "83a64a2fea46315e3694ed9c25b1b7d17995806b"
+          }
+        },
+        {
+          "client_id": "1045969714837-6aptp8s4t0dh9k9s4kim1und7vhps451.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNAwMaKR1X6eKtqb-a0geXOQ6K0_1hRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045969714837-6aptp8s4t0dh9k9s4kim1und7vhps451.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
